@@ -1,0 +1,6 @@
+TASKs : 25-1-2024
+Nodejs + Postgres + restapi (Express)
+    - create user DONE
+    - read user DONE 
+    - update user
+    - delete user
